@@ -34,8 +34,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@cosmjs/crypto": "^0.32.4",
-    "@cosmjs/stargate": "^0.32.4",
+    "@cosmjs/crypto": "^0.34.0",
+    "@cosmjs/stargate": "^0.34.0",
     "@ledgerhq/hw-transport-node-hid": "^6.29.3",
     "@zondax/ledger-sei": "1.0.1"
   },
