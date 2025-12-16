@@ -62,7 +62,7 @@
     "@cosmjs/stargate": "^0.32.2",
     "@cosmjs/tendermint-rpc": "^0.32.2",
     "@cosmology/lcd": "^0.13.3",
-    "@cosmology/telescope": "^1.5.3",
+    "@cosmology/telescope": "^2.1.0",
     "@osmonauts/helpers": "^0.7.0",
     "cosmjs-types": "^0.9.0",
     "protobufjs": "^7.2.6"
